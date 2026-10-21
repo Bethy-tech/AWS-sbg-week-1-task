@@ -1,0 +1,20 @@
+name,age,score
+Alice Smith,22,88
+alice smith,22,88
+Bob Jones,17,76
+  bob   jones  ,17,76
+Carol, ,81
+Dave Brown,31,not a number
+Eve White,9,90
+Frank,45,105
+Grace Miller,25,67.5
+Hannah,25,72
+Alice Smith,22,88
+Bob Jones,17,76
+Ivan,110,50
+Judy,28,
+Kyle,35,84
+Liam,40,95
+Mia,twenty-two,88
+Nora,27,92
+Olivia,30,invalid
